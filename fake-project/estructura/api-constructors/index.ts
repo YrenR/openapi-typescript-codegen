@@ -1,0 +1,7 @@
+import { API_COMUN_V2, API_COMUN_PUBLIC_V2, getAPI_COMUN_URL } from "./API_COMUN_V2";
+
+export {
+  API_COMUN_V2,
+  API_COMUN_PUBLIC_V2,
+  getAPI_COMUN_URL,
+};
